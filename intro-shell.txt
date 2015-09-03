@@ -1,0 +1,5 @@
+1- Comando "ls"para exibir os arquivos e pastas presentes no Lucas@Lucas-PC 
+2- Entrar na pasta "desktop" usando o comando "cd desktop"
+3- Para criar a pasta "pratica-shell" usou-se o comando "mkdir pratica-shell" . 
+Criando-se então a pasta na área de trabalho
+
