@@ -1,0 +1,15 @@
+Grupo : Lucas Silva Pereira, Marcos Vinícios Clemente e William Santos
+
+Prática Bubble-sort 
+
+1 - Embaralhar as cartas e organizá-las da esquerda para a direita.
+
+2 - Desvirar duas cartas 
+    * Se a carta da direita for menos do que a da esquerda troxa-se as duas de lugar.
+	* Se a carta da direita for maior do que a da esquerda permanecem no mesmo lugar.
+	
+3 - Fazer a combinação de todos os pares possíveis até que não a da direita sempre seja maior que a da esquerda.
+
+Obs: "A" - 1 
+
+Sequencia: A 1 2 3 4 5 6 7 8 9 10 J Q K
