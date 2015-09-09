@@ -4,12 +4,12 @@ Prática Bubble-sort
 
 1 - Embaralhar as cartas e organizá-las da esquerda para a direita.
 
-2 - Desvirar duas cartas 
-    * Se a carta da direita for menos do que a da esquerda troxa-se as duas de lugar.
-	* Se a carta da direita for maior do que a da esquerda permanecem no mesmo lugar.
+2 - Comparar pares de carta  A-E, sem repetir as comparações?
+    
 	
-3 - Fazer a combinação de todos os pares possíveis até que não a da direita sempre seja maior que a da esquerda.
+3 - Se a carta da esquerda < carta da direita; permanece na posição
+	Se a carta da esquerda > carata da direita; trocar as posições
 
-Obs: "A" - 1 
+4 - Parar e desvirar todas as cartas quando não houver mais combinações
 
 Sequencia: A 1 2 3 4 5 6 7 8 9 10 J Q K
