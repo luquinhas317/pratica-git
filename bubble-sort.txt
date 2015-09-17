@@ -1,15 +1,14 @@
-Grupo : Lucas Silva Pereira, Marcos Vinícios Clemente e William Santos
+﻿Grupo : Lucas Silva Pereira, Marcos Vinícios Clemente e William Santos
 
 Prática Bubble-sort 
 
-1 - Embaralhar as cartas e organizá-las da esquerda para a direita.
+N = 5
 
-2 - Comparar pares de carta  A-E, sem repetir as comparações?
-    
-	
-3 - Se a carta da esquerda < carta da direita; permanece na posição
-	Se a carta da esquerda > carata da direita; trocar as posições
+lista = [5,1,2,3,4]
 
-4 - Parar e desvirar todas as cartas quando não houver mais combinações
-
-Sequencia: A 1 2 3 4 5 6 7 8 9 10 J Q K
+for i in range(0,N-2,1):
+    for j in range(i+1,N-1,1):
+        if lista[i] > lista[j]
+            tmp = lista[i]
+            lista[i] = lista[j]
+            lista[j] = tmp
